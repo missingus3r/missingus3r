@@ -1,6 +1,7 @@
 ### Hi! I'm Bruno! 👋
 ## - 📫 https://twitter.com/missingus3r
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=missingus3r&count_private=true&theme=tokyonight&showicons=true)]()
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=missingus3r&langs_count=5&theme=tokyonight)]()
 
 
