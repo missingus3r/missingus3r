@@ -13,9 +13,7 @@
 | **Q1** | AI-powered desktop overlay subsystem for Windows/Linux/macOS | [Live](https://missingus3r.github.io/q1/) |
 | **Austra** | Super app — weather, AI assistant, exchange rates, forum | [Repo](https://github.com/missingus3r/austra) |
 | **Portfolio** | Personal portfolio site | [Live](https://missingus3r.github.io) |
-| **Surlink** | Real estate hub for Uruguay — rentals, sales, finance | [Repo](https://github.com/missingus3r/surlink) |
 | **LTI Hub** | Info hub, chatbot and forum for Uruguay's tech university | [Repo](https://github.com/missingus3r/lti.uy_v2) |
-| **Mitmi** | Dating app for long-term relationships | [Repo](https://github.com/missingus3r/mitmi) |
 | **PNG/BMP Compressor** | Lossless compressor preprocessor for images | [Repo](https://github.com/missingus3r/PNG-BMP-Lossless-Compressor-Preprocessor-) |
 | **Random File Compressor** | Lossless random binary file compression | [Repo](https://github.com/missingus3r/random_file_compressor) |
 | **GPTWrapper** | GPT API Chat GUI | [Repo](https://github.com/missingus3r/GPTWrapper) |
