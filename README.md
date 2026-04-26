@@ -1,9 +1,21 @@
+<p align="center">
+  <img src="header.png" alt="missingus3r — software, AI, marketplaces" width="100%">
+</p>
+
 ### Hi! I'm Bruno! 👋
 
 - 📫 [x.com/missingus3r](https://x.com/missingus3r)
 - 🌐 [countdowntoai.com](https://www.countdowntoai.com)
 - 🤖 [friday-showcase](https://missingus3r.github.io/friday-showcase/)
 - 🧩 [bots-hub](https://missingus3r.github.io/bots-hub/)
+
+#### Tech stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,js,ts,html,css,python,bash,powershell,mongodb,sqlite,git,github,linux,vscode,ai,electron,docker,nginx,markdown,regex&perline=12&theme=dark" alt="cs dotnet nodejs express js ts html css python bash powershell mongodb sqlite git github linux vscode ai electron docker nginx markdown regex">
+  </a>
+</p>
 
 #### Projects
 
