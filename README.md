@@ -17,7 +17,7 @@ Software engineer from Uruguay building AI-driven tools, marketplaces, and devel
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,js,ts,html,css,python,bash,powershell,mongodb,sqlite,git,github,linux,vscode,ai,electron,docker,nginx,markdown,regex&perline=12&theme=dark" alt="cs dotnet nodejs express js ts html css python bash powershell mongodb sqlite git github linux vscode ai electron docker nginx markdown regex">
   </a>
-  <a href="https://ejs.co" title="EJS"><img height="48" src="https://cdn.simpleicons.org/ejs/B4CA65" alt="EJS" style="vertical-align:middle;margin-left:6px"></a>
+  <a href="https://ejs.co" title="EJS"><img height="48" width="48" src="icons/ejs.svg" alt="EJS"></a>
 </p>
 
 #### Projects
