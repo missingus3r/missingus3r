@@ -4,6 +4,8 @@
 
 ### Hi! I'm Bruno! 👋
 
+Software engineer from Uruguay building AI-driven tools, marketplaces, and developer infrastructure. Mostly solo work, mostly **Node.js / Python / C#**. Currently obsessed with self-evolving AI systems — what happens when you give an LLM cron jobs, a memory database, and time.
+
 - 📫 [x.com/missingus3r](https://x.com/missingus3r)
 - 🌐 [countdowntoai.com](https://www.countdowntoai.com)
 - 🤖 [friday-showcase](https://missingus3r.github.io/friday-showcase/)
