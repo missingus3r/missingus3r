@@ -2,7 +2,7 @@
   <img src="header.png" alt="missingus3r — software, AI, marketplaces" width="100%">
 </p>
 
-### Hi! I'm Bruno! 👋
+### Hi! I'm missingus3r! 👋
 
 Software engineer from Uruguay building AI-driven tools, marketplaces, and developer infrastructure. Mostly solo work, mostly **Node.js / Python / C#**. Currently obsessed with self-evolving AI systems — what happens when you give an LLM cron jobs, a memory database, and time.
 
